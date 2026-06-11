@@ -1,5 +1,9 @@
 # 📚 Bookstore Sales Analysis using PostgreSQL
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project analyzes bookstore sales data using PostgreSQL. The analysis focuses on customer purchasing behavior, book sales performance, revenue generation, and inventory management. By working with customer, book, and order datasets, various business questions were answered using SQL queries and data analysis techniques.
